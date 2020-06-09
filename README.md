@@ -10,4 +10,4 @@ This is a Tic-Tac-Toe game for 2 players implemented in Java that runs in the co
 
 ## Running the game
 
-- Run the file TicTacToe.java in the console
+- Run the file Main.java in the console
