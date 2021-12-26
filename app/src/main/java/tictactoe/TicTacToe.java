@@ -1,4 +1,4 @@
-package com.example;
+package tictactoe;
 
 import java.util.Scanner;
 
