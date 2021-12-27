@@ -1,4 +1,4 @@
-package com.example;
+package tictactoe;
 
 enum Player {
 	X, O

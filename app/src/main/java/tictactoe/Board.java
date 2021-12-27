@@ -1,4 +1,4 @@
-package com.example;
+package tictactoe;
 
 public class Board {
 	

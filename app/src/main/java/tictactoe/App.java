@@ -1,7 +1,6 @@
-package com.example;
+package tictactoe;
 
-public class Main {
-    
+public class App {
     public static void main(String[] args) {
         TicTacToe ticTacToe = new TicTacToe();
         ticTacToe.play();

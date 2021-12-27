@@ -1,4 +1,4 @@
-package com.example;
+package tictactoe;
 
 import static org.junit.jupiter.api.Assertions.*;
 
